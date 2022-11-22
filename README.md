@@ -4,7 +4,7 @@
 
 - [Table of Contents](#table-of-contents)
 - [Introduction](#introduction)
-- [View Live](#view-live)
+- [Demo](#demo)
 - [Screenshot](#screenshot)
 - [Built With](#built-with)
 - [How To Use](#how-to-use)
@@ -16,9 +16,9 @@
 
 ### The simple Drawing app .It’s help to draw
 
-## Live Preview
+## Demo
 
-#### [Live preview](https://shviper.github.io/drawing-app/)
+[![Demo](https://img.shields.io/badge/Live-Preview-orange.svg?style=for-the-badge&logo=appveyor)](https://shviper.github.io/drawing-app/)
 
 # Screenshot
 
@@ -48,6 +48,9 @@ cd ./drawing-app
 
 [Sajjad Hasan Riyad](https://www.facebook.com/shviper)
 
+## License
+
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge&logo=appveyor)](https://choosealicense.com/licenses/mit/)
 ## Contact
 
 - ` GitHub` [@shviper](https://www.github.com/shviper)
